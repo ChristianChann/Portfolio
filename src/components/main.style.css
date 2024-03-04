@@ -1,0 +1,29 @@
+.mainContainer{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    font-size: large;
+    background-color: #030712;
+}   
+
+.subContainer{
+    max-width: 50rem;
+    display: grid;
+    gap: 1rem;
+    color: white;;
+    margin: 2rem;
+    border-radius: 20px;
+    font-family: " sans-serif ";
+    font-size: larger;
+}
+
+h1{
+    text-align: center;
+}
+
+.pTag{
+    text-align: center;
+}
+
+

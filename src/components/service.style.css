@@ -1,0 +1,63 @@
+.serviceDiv{
+    display: grid;
+    background-color: #262626;
+    padding-bottom: 2rem;
+}
+
+.headerDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem;
+    padding: 1rem;
+    color: #e5e7eb;
+}
+
+.sDiv{
+    font-weight: bold;
+    font-size: larger;
+    letter-spacing: 2px;
+}
+
+.pDiv{
+    text-align: center;
+    padding: 1rem;
+    opacity: 0.5;
+}
+.row-container{
+    display: grid;
+    justify-content: center;
+}
+
+.sec-container{
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+}
+
+.box{
+    width: 450px;
+    height: 220px;
+    border: 1px solid auto;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 20px ;
+}
+
+.titleDiv{
+    padding: 5px;
+    margin: 5px 10px;
+}
+
+.spanDiv{
+    padding: 5px;
+    margin: 2px 10px;    
+}
+
+.iconDiv{
+    padding: 5px;
+    margin: 2px 10px;
+}
